@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Meaning of life and having a purpose"
+categories: understand-the-world
+---
+
+Meaning and purpose in life is like a guiding compass that gives you direction in life and helps you to overcome harsh struggles. Having a purpose is necessary to living valuable and fulfilled life.
+
+## Be kind to the people you love
+Build love and friendships with trust, honesty and sacrifice. Love is not a game, you cannot cheat your way around it. The only way to find true love is to sacrifice yourself unconditionally. Open yourself with all your strenghts and vulnerabilities. Maybe it will work out, maybe not, but there is no love without commitment, risk and skin in the game.
+
+## Go full in
+Life is too short to play it safe. Have skin in the game. Take risks. Surviving is not living. There are no ups without downs, no highs without lows, no wins without losses.
+
+## Learn about the world
+Appreciate the beauty of the world. The process of discovering and understanding unlocks new levels and dimensions in the game of life. The investment compounds and pays off in unexpectable ways. 
+
+## Build and create things for others
+Building and creating is infinitely more meaningful and satisfying than consuming. Although building in and of itself is meaningful, sharing it with others takes it to another level. We want to have an impact on this world and create things that will last. Create things that will outlive us. 
+
+## Be honest with yourself and others. Don't explain your philosophy. Embody it
+Avoid self-deception at all costs. Actively find and fight your cognitive disonance. Don't blame others. Don't be jealous. Start with yourself. Be humble.
+
+## Embrace the struggle
+Suffering and pain is unavoidable. Doing the right things is usually harder than doing the easy things. What makes the struggle bearable is giving it a meaning. Pain can become pleasure by looking at it from different perspective. Suffering is necessary, but don't suffer just for the sake of suffering. Suffer for a reason.
+
+He who has a why to live can bear almost any how. (Friedrich Nietzsche)
