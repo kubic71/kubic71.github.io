@@ -42,3 +42,12 @@ Here we go:
         - usefulness(p) = E \[d(e, p) / time_to_understand(p) \], e ~ event distribution - probability that event e will happen in your life.
         - heuristic that selects principles to understand should consider value function v(event), or which says how important is for me to understend event e (financially, personally)
 
+- **The unreasonable effectiveness of random exploration**
+    - the unexpected and fundamentally unpredictable positive consequences of random exploration. How to fight sterile order by carefully crafted disorder. 
+    - exploration vs. exploitation tradeoff
+
+- **My vision of myself hinders my own progress**
+    - My own perceived identity is the biggest obstacle to changing my behavior and habit (https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+
+
+
