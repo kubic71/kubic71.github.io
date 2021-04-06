@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "On the Meaning of life, universe, and everything"
+categories: self-growth
+---
 # Meaning of life
 Meaning and purpose in life is like a guiding compass that gives you direction in life and helps you overcome unavoidable harsh struggles. It is the ultimate motivating factor. Not having a meaning runs the risk of doing things that are easy and plesurable short-term but lead nowhere in the long-run. Do things for the right reasons, things that are in line with your meaning nad purpose, things that you won't regret when you are in your 80s. Your values may change as you get older and gain more experience and wisdom, but having a well though-out list of the ultimate goals which you tweak as you go through life is incredibly useful nevertheless. Having a purpose is essential to living valuable and fulfilled life.
 
