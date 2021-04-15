@@ -11,6 +11,7 @@ I stumbled upon [Naval Ravikant's](https://twitter.com/naval) twitter through An
 
 ## What is wealth?
 Wealth is freedom to do what you really like, so that you don't have to wear tie every day to your boring job.
+Working and making money is giving up your time in exchange for the time of other people.
 
 ### You're not going to get rich by renting out your time
 You must own an equity, a piece of a business to gain your financial freedom. *This is probably one of the most important thing*
