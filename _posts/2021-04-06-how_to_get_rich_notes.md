@@ -56,8 +56,8 @@ When you are inspired to do something, do it **rightaway**, otherwise the inspir
 
 ### Honesty
 You want to be honest, because it leaves you with a clear mind. You don't need to keep 2 threads of thoughts in your mind all the time: 
-1) keeping track of the lies you're telling
-2) what you actually think and believe
+1. keeping track of the lies you're telling
+2. what you actually think and believe
 
 
 You also reject the people, that only want to hear the petty lies.
