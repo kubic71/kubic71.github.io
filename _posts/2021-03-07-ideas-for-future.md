@@ -48,6 +48,7 @@ Here we go:
 
 - **My vision of myself hinders my own progress**
     - My own perceived identity is the biggest obstacle to changing my behavior and habit (https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+    - [99% of your thought process is protecting your self-conception, and 98% of that is wrong](https://youtu.be/Nb2tebYAaOA?t=4990)
 
 
 
