@@ -32,10 +32,14 @@ Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI 
 - Listennig to audiobooks and podcasts
 
 
-### Projects
+### Past Projects
 - Built [extremely-low-resolution display](https://github.com/gymgeek/led_panel) from WS2812B ledstrip and other cool stuff as a member of [GymGeek](https://github.com/gymgeek) at highschool
     - went to numerous [events](https://blog.python.cz/komunitni-python-stanek-na-linuxdays) to present our stuff 
 - Countless homeworks and school projects, most of which can be found in very chaotic form [here](https://github.com/kubic71/mff)
+
+
+### Things I'm currently working on
+- my [bachelor's thesis]({{ site.baseurl }}{% link thesis.md %})
 
 ### Other
 - Oragize summer camp [Protab](https://protab.cz/) for young programming enthusiasts 
