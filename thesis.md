@@ -28,7 +28,7 @@ Adversarial attacks can be divided (among other different categorization criteri
 Attack scenario, in which the entire neural network with all its parametrs (architecture, weights and biases) is available to the attacker. This type of an attack is relatively easy to execute.
 
 #### Black-box attacks
-Nothing about the neural network is known. Attacker can only query the resulting desicion. I study this type of attacks, because this is much more realistic scenario in the real world. 
+Nothing about the neural network is known. Attacker can only query the resulting desicion. I study these types of attacks, because this is much more realistic scenario in the real world. 
 
 
 ### Attacking live public services
