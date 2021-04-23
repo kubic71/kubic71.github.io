@@ -33,4 +33,5 @@ Attack scenario, in which the entire neural network with all its parameters (arc
 ### Attacking live public services
 Some online services provide API for image recognition and labeling.
 
-
+### My motivations
+<iframe frameBorder="0" width="800" height="600" style="border:0" src="https://orgpad.com/s/dGBbNV20_XY?embed=true"></iframe>
