@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kubic71.github.io
+Token: bcaa9dc82a429f0b2ce6723358a148ab91835d7094bdebc3694ccbed1866adc9
