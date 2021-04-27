@@ -4,10 +4,6 @@ title:  "Wierd is good"
 categories: self-growth
 ---
 
-### Work in progress
-I wanted to write a post about the advantages and disadvantages of being wierd, being an outlier and what do I actually mean by "wierd" for some time already. I don't have enough time to write the whole post right now, but I will just put off my ideas here in the meantime.
-
-
 ## Being wierd and the Nerd Humblebrag
 Nerds used to be viewed negatively and with a bit of distaste and resentment. I experienced it personally in primary school and to some extent in highschool. This [video from Julia Galef](https://www.youtube.com/watch?v=7gPVkQNxC_s) expresses my feeling nicely. This attitude has shifted in the past 15 years, because what had seemed like useless ridiculous things only nerds would be interested in has suddenly become the things that rule the world today.
 
