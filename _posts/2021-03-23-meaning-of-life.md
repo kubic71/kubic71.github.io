@@ -3,6 +3,10 @@ layout: post
 title:  "On the Meaning of life, universe, and everything"
 categories: self-growth
 ---
+
+**Sidenote:**
+This post has quickly turned from "Search for a meaning" to something like "Rules for life 101". I have initially considered creating a separate post for the "Rules", to make them distinct from the "Meaning of life", but then I changed my mind. I think that specific meaning gives rise to a set of rules that best fullfil that meaning. And vice versa, having some set of rules you consistently follow (you can call it principles or morals, if you want) gives you a sense of fullfilment, it provides you with a meaning in and of itself. Hence I think these two are inseparable, so that's why only one post instead of two.
+
 ## Meaning of life
 ### Source of motivation
 Meaning and purpose in life is like a guiding compass that gives you direction in life and helps you overcome unavoidable harsh struggles. It is the ultimate motivating factor. Not having a meaning runs the risk of doing things that are easy and plesurable short-term but lead nowhere in the long-run. Do things for the right reasons, things that are in line with your meaning nad purpose, things that you won't regret when you are in your 80s.
@@ -14,7 +18,7 @@ With every action taken you are casting a vote for the person you will become. Y
 Solid core values that you stand by build powerful shield against temptations that derail you. Firmly, but gracefully refuse to play other people's games when those games aren't compatible with your path. Choose to play your game. You will find it easier to defend against many types of selfish manipulation that hide behind seemingly good intents.
 
 ### Accept that your beliefs will change
-Your values may change as you get older and gain more experience and wisdom, but having a well though-out list of the ultimate goals which you tweak as you go through life is incredibly useful nevertheless. Having a purpose is essential to living valuable and fulfilled life. Accept that you will never be perfect. Nobody is and never will be.
+Your values may change as you get older and gain more experience and wisdom, but having a well though-out list of the ultimate goals which you tweak as you go through life is incredibly useful nevertheless. You can check out how [this page](https://github.com/kubic71/kubic71.github.io/commits/main/_posts/2021-03-23-meaning-of-life.md) has changed overtime, in line with my own changing views and opinions. Having some concrete purpose is essential to living a valuable and fulfilled life, even though it is always subject to change. Accept that it will never be perfect, accept that you will never be perfect. Nobody is and never will be.
 
 
 ## Be kind to the people you love
