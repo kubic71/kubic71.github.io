@@ -5,7 +5,7 @@ categories: self-growth
 ---
 
 ## Being weird and the Nerd Humblebrag
-Nerds used to be viewed negatively and with a bit of distaste and resentment. I experienced it personally in primary school and to some extent in highschool. This [video from Julia Galef](https://www.youtube.com/watch?v=7gwPVkQNxC_s) expresses my feeling nicely. This attitude has shifted in the past 15 years, because what had seemed like useless ridiculous things only nerds would be interested in has suddenly become the things that rule the world today.
+Nerds used to be viewed negatively and with a bit of distaste and resentment. I experienced it personally in primary school and to some extent in highschool. This [video from Julia Galef](https://www.youtube.com/watch?v=7gPVkQNxC_s) expresses my feeling nicely. This attitude has shifted in the past 15 years, because what had seemed like useless ridiculous things only nerds would be interested in has suddenly become the things that rule the world today.
 
 
 ## Let's normalize the weird and appreciate the diversity of thought
