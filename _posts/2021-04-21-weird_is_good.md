@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Wierd is good"
+title:  "Weird is good"
 categories: self-growth
 ---
 
-## Being wierd and the Nerd Humblebrag
-Nerds used to be viewed negatively and with a bit of distaste and resentment. I experienced it personally in primary school and to some extent in highschool. This [video from Julia Galef](https://www.youtube.com/watch?v=7gPVkQNxC_s) expresses my feeling nicely. This attitude has shifted in the past 15 years, because what had seemed like useless ridiculous things only nerds would be interested in has suddenly become the things that rule the world today.
+## Being weird and the Nerd Humblebrag
+Nerds used to be viewed negatively and with a bit of distaste and resentment. I experienced it personally in primary school and to some extent in highschool. This [video from Julia Galef](https://www.youtube.com/watch?v=7gwPVkQNxC_s) expresses my feeling nicely. This attitude has shifted in the past 15 years, because what had seemed like useless ridiculous things only nerds would be interested in has suddenly become the things that rule the world today.
 
 
-## Let's normalize the wierd and appreciate the diversity of thought
+## Let's normalize the weird and appreciate the diversity of thought
 I have a strong distate against sterilized nature of systems governed by fixed rules. This is the main things that kills any creativity we all have inside. And creativity is **essential** for progress and innovation. We need the ability to form outrageous thoughts and ideas. Every [Paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift) resulted from at the time unacceptable rebelious idea. I hate the conformity, it sucks the life out of people and makes them into lifeless machines. I want to challenge the status quo, I want to provoke. That said, I am not suggesting that we destroy all order and plunge into uncontrolled chaos. I still want to be able to satisfy all [5 levels of Maslow's pyramid of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). That certainly wouldn't be possible living in a lawless anarchy. I just think there is more room for respecting each other's points of view, even if we don't agree with them. 
 
 
@@ -22,4 +22,4 @@ Evolution also came up with another useful mechanism to exploit disorder. Simila
 Don't shame and shut down somebody else just because you don't understand his point. Listen and try to appreciate his different perspective. Ask questions if you still have difficulty understanding. Having different life goals is perfectly okay. Different goals will inevitably result in different opinions. Different life experiences are just like priors in [Bayesian probabilistic reasoning](https://en.wikipedia.org/wiki/Bayesian_inference). Using the same valid logic, different priors will result in different conclusions. We may disagree simply because we have different priors, so maybe when listenning to other people, we should try to judge their beliefs through the eyes of their priors.
 
 ## Order is the default
-Humans like rules. It makes their life easier. They don't have to think anytime they do something. They have to use their [System 2](https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/) only once when devising the rule. Following it is easy and much more unconsious. Thinking from [first principles](https://en.wikipedia.org/wiki/First_principle) requires much more mental energy and is hard and painful. Therefore we try our best to avoid it and naturally gravitate towards order. This natural tendency has to be consiously fought and challenged with a little bit of chaos, with a little bit of "wierd". From time to time we have to get out of our comfort zone and re-evaluate our systems. This point is nicely summed up by [Jim Keller's point about chaotic mind being a feature, not a bug](https://www.youtube.com/watch?v=FxZDqrAI-O8)
+Humans like rules. It makes their life easier. They don't have to think anytime they do something. They have to use their [System 2](https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/) only once when devising the rule. Following it is easy and much more unconsious. Thinking from [first principles](https://en.wikipedia.org/wiki/First_principle) requires much more mental energy and is hard and painful. Therefore we try our best to avoid it and naturally gravitate towards order. This natural tendency has to be consiously fought and challenged with a little bit of chaos, with a little bit of "weird". From time to time we have to get out of our comfort zone and re-evaluate our systems. This point is nicely summed up by [Jim Keller's point about chaotic mind being a feature, not a bug](https://www.youtube.com/watch?v=FxZDqrAI-O8)
