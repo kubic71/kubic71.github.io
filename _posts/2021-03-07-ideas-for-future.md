@@ -17,6 +17,8 @@ The main purpose is to write those things down as they pop into my head, so that
 
 Here we go:
 - **Writing as an active learning method**
+    - rephrasing something serves as a check against the illusion of understanding, similarly to teaching 
+    - more accurate metacognition about one's own abilities 
 - **Kuramoto and the emergent synchronization** 
     - metronomes
     - coupled oscilators
