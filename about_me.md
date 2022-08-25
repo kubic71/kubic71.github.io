@@ -39,7 +39,7 @@ Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI 
   - Voice cloning (conditioned Tacotron + WaveRNN)
   - Smaller data science projects (RapidMiner, scikit-learn, PyTorch, Numpy, Pandas)
   - others
-- [DataSentics]
+- [DataSentics](https://datasentics.com/)
     - **Jan 2022 - Jun 2022**
     - Lead developer on [Quality inspector](https://datasentics.com/solutions/quality-inspector)
     - MLOps, software engineering, work in a team
