@@ -19,9 +19,27 @@ Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI 
 - Web development: Django, Java Spring
 - ML: Tensorflow, PyTorch, NumPy, R ...
 
+### Education
+- **2017 - 2021** - BSc. in Computer Science at Charles University
+- **Feb 2020 - Jun 2020** - Erasmus+ international exchange 
+- **2021 - now** MSc. in Artificial intelligence at Charles University
+
 
 ### Work experience:
-- Summer 2015-2019 - intern at [CGI]("https://www.cgi.com/ceska-republika/cs") - developping Android App for e-signing, setting up CI/CD infrastructure, managing Linux servers, migrating Ant build-scripts to Gradle ...
+- Summer internships at [CGI](https://www.cgi.com/en)
+    - **Summer 2015-2019**
+    - Designed and implemented Android app for e-signing legal documents
+    - Setup a **Jenkins** CI/CD pipeline. Helped to migrate Apache Ant build scripts to Gradle
+    - Used Spring MVC to refactor web app for secure file transfer.
+- Freelance
+  - **Feb 2020 - now**
+  - Reproduced results from adversarial attack papers [1](https://github.com/kubic71/TREMBA) [2](https://github.com/kubic71/square-attack) [3](https://github.com/kubic71/RayS)
+  - Handwritten text generation
+  - Voice cloning (conditioned Tacotron + WaveRNN)
+  - Smaller data science projects (RapidMiner, scikit-learn, PyTorch, Numpy, Pandas)
+  - others
+
+- 
 
 
 ### Hobbies 
@@ -36,6 +54,9 @@ Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI 
 - Built [extremely-low-resolution display](https://github.com/gymgeek/led_panel) from WS2812B ledstrip and other cool stuff as a member of [GymGeek](https://github.com/gymgeek) at highschool
     - went to numerous [events](https://blog.python.cz/komunitni-python-stanek-na-linuxdays) to present our stuff 
 - Countless homeworks and school projects, most of which can be found in very chaotic form [here](https://github.com/kubic71/mff)
+- [AdvPipe](https://github.com/kubic71/bachelors-thesis)
+    - Adversarial attack pipeline for whitebox and blackbox adversarial attacks. Created as a part of my thesis
+- 
 
 
 ### Things I'm currently working on
