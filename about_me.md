@@ -43,6 +43,7 @@ Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI 
     - **Jan 2022 - Jun 2022**
     - Lead developer on [Quality inspector](https://datasentics.com/solutions/quality-inspector)
     - MLOps, software engineering, work in a team
+    - Won [GreenHack](https://greenhack.eu/) with [PylonGuard](https://www.youtube.com/watch?v=w4Dqr02qcs4) and [live demo](https://greensentics.github.io/)
 
 ### Past Projects
 - Built [extremely-low-resolution display](https://github.com/gymgeek/led_panel) from WS2812B ledstrip and other cool stuff as a member of [GymGeek](https://github.com/gymgeek) at highschool
