@@ -4,7 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI (I know it sounds buzzwordy), new technology and music.
+![Profile photo](/assets/profile.jpg)
+
+Hi, my name is Jakub Hejhal (Kuba) and I'm CS student with passion for math, AI, new technology and music.
 
 
 ### Basic info:
