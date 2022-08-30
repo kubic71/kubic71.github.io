@@ -60,7 +60,7 @@ University course.
   - Python program simulating the physics of dampened harmonic oscillators.
 - [Black-n-White](https://github.com/kubic71/harmonic-sim)
     - Python 2D adventure game implemented from scratch uing Pygame
-- [Devilt's mines](https://github.com/kubic71/dabelske_miny)
+- [Devil's mines](https://github.com/kubic71/dabelske_miny)
     - Evil variant of Minesweeper written in Haskell. If a cell can contain a mine, it will always do!
 
 ### Hobbies 
@@ -68,7 +68,7 @@ University course.
 - Producing electronic [music](https://www.youtube.com/watch?v=TVd2iehl2Cg)
 - Tinkering with hardware (Arduino, Raspberry, ESP8266, WS2812B ledstrip...) 
 - Flying [FPV quads](https://www.youtube.com/watch?v=PHxOc7eDYhk)
-- Listennig to audiobooks and podcasts
+- Listennig to music, audiobooks and podcasts
 - Hiking
 - Jiu-jitsu
 
